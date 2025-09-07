@@ -1,2 +1,2 @@
-# sister-sun
+# syster-sun
 just the sun, the earth and the moon, a simple first project
