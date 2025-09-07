@@ -55,8 +55,8 @@ just the sun, the earth and the moon, a simple first project
             .moon {
                     top: 0;
                     right: 0;
-                    width: 10em; 
-                    height: 10em;
+                    width: 8em; 
+                    height: 8em;
                     animation: orbit 2.7s linear infinite;
             }
                 .earth::before,
